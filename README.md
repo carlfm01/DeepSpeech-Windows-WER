@@ -1,4 +1,7 @@
-# DeepSpeech-Windows-WER
+
+
+# DeepSpeech-Windows-WER [![Build Status](https://dev.azure.com/carlfm01/Test/_apis/build/status/carlfm01.DeepSpeech-Windows-WER?branchName=master)](https://dev.azure.com/carlfm01/Test/_build/latest?definitionId=1&branchName=master)
+
 WER test for Mozilla's Windows DeepSpeech client
 
 **Versions for 0.4.1 WER test**
